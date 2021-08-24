@@ -8,7 +8,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=maulanadityaa.maulanadityaa)
 
 </p>
-<div size='20px'> Hi! My name is Maulana. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Maulana. Thank You for taking the time to view my GitHub Profile. If you need anything, feel free to contact me through my social media :smile: 
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
