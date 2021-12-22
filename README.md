@@ -1,5 +1,5 @@
 <div align="center">
-![](goat.gif)
+<img width="100%" height = "250px" src="http://gifs.tastefullyoffensive.com/post/61426647498/watch-skateboarding-animals" alt="cover" />
 </div>
 
 <h1> Hello Fellow Lucifer Slave! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
