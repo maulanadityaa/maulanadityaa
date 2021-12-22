@@ -1,5 +1,5 @@
 <div align="center">
-<iframe src="https://giphy.com/embed/VkM7sV2DoZvZ6" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/goat-balancing-VkM7sV2DoZvZ6">via GIPHY</a></p>
+![](goat.gif)
 </div>
 
 <h1> Hello Fellow Lucifer Slave! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
